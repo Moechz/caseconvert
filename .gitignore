@@ -1,0 +1,15 @@
+# ---- internal project documents: keep local, never push to the public repo ----
+AGENTS.md
+HANDOFF.md
+docs/
+build/
+test/compose-resolved/
+
+# ---- generated artifacts ----
+dist/
+out/
+
+# ---- OS / editor noise ----
+.DS_Store
+._*
+*.swp
