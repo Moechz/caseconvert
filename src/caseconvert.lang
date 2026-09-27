@@ -7,7 +7,7 @@
 
 [en-us]
   name         = "Case Converter"
-  auth         = "Case Converter"
+  auth         = "karentamrazyan"
   version      = "@@VERSION@@"
   descript     = "Case Converter is a small offline web app that changes the letter case of any text. Paste or type your text and switch it to sentence case, title case, capital case, lower case or upper case, with live word and character counts. Your text never leaves the device: the conversion runs in your browser and the app works entirely inside a container on your NAS - no ads, no tracking, no account."
   release_note = "1. Initial release. A fully offline web app that converts text between sentence, title, capital, lower and upper case, with live word and character counts. The static web files are embedded in this package and served by a non-root nginx container pulled from Docker Hub. Google Analytics, Google AdSense and the upstream contact form have been removed."
@@ -15,7 +15,7 @@
 
 [zh-cn]
   name         = "大小写转换器"
-  auth         = "Case Converter"
+  auth         = "karentamrazyan"
   version      = "@@VERSION@@"
   descript     = "大小写转换器是一个小巧的离线网页工具，用于转换任意文本的字母大小写。粘贴或输入文本，即可切换为句首大写、标题式大写、每个单词首字母大写、全小写或全大写，并实时显示字数与字符数。文本不会离开您的设备：转换在浏览器中完成，应用完全运行在 NAS 的容器内——无广告、无追踪、无需账号。"
   release_note = "1. Initial release. A fully offline web app that converts text between sentence, title, capital, lower and upper case, with live word and character counts. The static web files are embedded in this package and served by a non-root nginx container pulled from Docker Hub. Google Analytics, Google AdSense and the upstream contact form have been removed."
@@ -23,7 +23,7 @@
 
 [zh-hk]
   name         = "大小寫轉換器"
-  auth         = "Case Converter"
+  auth         = "karentamrazyan"
   version      = "@@VERSION@@"
   descript     = "大小寫轉換器是一個小巧的離線網頁工具，用於轉換任意文字的字母大小寫。貼上或輸入文字，即可切換為句首大寫、標題式大寫、每個單詞首字母大寫、全小寫或全大寫，並即時顯示字數與字元數。文字不會離開您的裝置：轉換在瀏覽器中完成，應用完全在 NAS 的容器內執行——無廣告、無追蹤、無需帳號。"
   release_note = "1. Initial release. A fully offline web app that converts text between sentence, title, capital, lower and upper case, with live word and character counts. The static web files are embedded in this package and served by a non-root nginx container pulled from Docker Hub. Google Analytics, Google AdSense and the upstream contact form have been removed."
@@ -31,7 +31,7 @@
 
 [fr-fr]
   name         = "Convertisseur de casse"
-  auth         = "Case Converter"
+  auth         = "karentamrazyan"
   version      = "@@VERSION@@"
   descript     = "Case Converter est une petite application web hors ligne qui change la casse de n'importe quel texte. Collez ou saisissez votre texte et convertissez-le en casse de phrase, casse de titre, casse capitale, minuscules ou majuscules, avec le comptage des mots et des caractères en direct. Votre texte ne quitte jamais l'appareil : la conversion s'effectue dans le navigateur et l'application fonctionne entièrement dans un conteneur sur votre NAS - sans publicité, sans suivi, sans compte."
   release_note = "1. Initial release. A fully offline web app that converts text between sentence, title, capital, lower and upper case, with live word and character counts. The static web files are embedded in this package and served by a non-root nginx container pulled from Docker Hub. Google Analytics, Google AdSense and the upstream contact form have been removed."
@@ -39,7 +39,7 @@
 
 [de-de]
   name         = "Groß-/Kleinschreibung-Konverter"
-  auth         = "Case Converter"
+  auth         = "karentamrazyan"
   version      = "@@VERSION@@"
   descript     = "Case Converter ist eine kleine Offline-Web-App, die die Groß-/Kleinschreibung beliebiger Texte ändert. Einfügen oder eingeben und in Satzschreibweise, Titel-Schreibweise, Kapitalisierte Schreibweise, Klein- oder Großbuchstaben umwandeln - mit Live-Wort- und Zeichenzählung. Ihr Text verlässt das Gerät nie: Die Umwandlung läuft im Browser, die App arbeitet vollständig in einem Container auf Ihrem NAS - ohne Werbung, ohne Tracking, ohne Konto."
   release_note = "1. Initial release. A fully offline web app that converts text between sentence, title, capital, lower and upper case, with live word and character counts. The static web files are embedded in this package and served by a non-root nginx container pulled from Docker Hub. Google Analytics, Google AdSense and the upstream contact form have been removed."
@@ -47,7 +47,7 @@
 
 [it-it]
   name         = "Convertitore di maiuscole/minuscole"
-  auth         = "Case Converter"
+  auth         = "karentamrazyan"
   version      = "@@VERSION@@"
   descript     = "Case Converter è una piccola web app offline che modifica le maiuscole/minuscole di qualsiasi testo. Incolla o digita il testo e convertilo in stile frase, stile titolo, iniziali maiuscole, minuscolo o maiuscolo, con conteggio di parole e caratteri in tempo reale. Il testo non lascia mai il dispositivo: la conversione avviene nel browser e l'app funziona interamente in un container sul tuo NAS - senza pubblicità, senza tracciamento, senza account."
   release_note = "1. Initial release. A fully offline web app that converts text between sentence, title, capital, lower and upper case, with live word and character counts. The static web files are embedded in this package and served by a non-root nginx container pulled from Docker Hub. Google Analytics, Google AdSense and the upstream contact form have been removed."
@@ -55,7 +55,7 @@
 
 [es-es]
   name         = "Conversor de mayúsculas y minúsculas"
-  auth         = "Case Converter"
+  auth         = "karentamrazyan"
   version      = "@@VERSION@@"
   descript     = "Case Converter es una pequeña aplicación web sin conexión que cambia las mayúsculas y minúsculas de cualquier texto. Pega o escribe el texto y conviértelo a estilo de oración, estilo de título, iniciales mayúsculas, minúsculas o MAYÚSCULAS, con recuento de palabras y caracteres en vivo. El texto nunca sale de tu dispositivo: la conversión se ejecuta en el navegador y la app funciona por completo en un contenedor de tu NAS: sin anuncios, sin rastreo y sin cuenta."
   release_note = "1. Initial release. A fully offline web app that converts text between sentence, title, capital, lower and upper case, with live word and character counts. The static web files are embedded in this package and served by a non-root nginx container pulled from Docker Hub. Google Analytics, Google AdSense and the upstream contact form have been removed."
@@ -63,7 +63,7 @@
 
 [hu-hu]
   name         = "Kis- és nagybetű átalakító"
-  auth         = "Case Converter"
+  auth         = "karentamrazyan"
   version      = "@@VERSION@@"
   descript     = "A Case Converter egy kis offline webalkalmazás, amely bármely szöveg kis- és nagybetűit átalakítja. Illessze be vagy írja be a szöveget, majd alakítsa mondatkezdő, cím-, kezdőbetűs, kis- vagy nagybetűs formára, élő szó- és karakterszámlálással. A szöveg soha nem hagyja el az eszközt: az átalakítás a böngészőben fut, az alkalmazás pedig teljes egészében a NAS konténerében működik - reklám, követés és fiók nélkül."
   release_note = "1. Initial release. A fully offline web app that converts text between sentence, title, capital, lower and upper case, with live word and character counts. The static web files are embedded in this package and served by a non-root nginx container pulled from Docker Hub. Google Analytics, Google AdSense and the upstream contact form have been removed."
@@ -71,7 +71,7 @@
 
 [ja-jp]
   name         = "ケースコンバーター"
-  auth         = "Case Converter"
+  auth         = "karentamrazyan"
   version      = "@@VERSION@@"
   descript     = "Case Converter は、任意のテキストの大文字・小文字を変換する小さなオフライン Web アプリです。テキストを貼り付けるか入力し、文頭のみ大文字、タイトルケース、各単語の先頭を大文字、すべて小文字、すべて大文字に変換できます。単語数と文字数もリアルタイムで表示します。テキストが端末の外に出ることはありません。変換はブラウザー内で実行され、アプリは NAS 上のコンテナー内だけで動作します。広告・追跡・アカウントはありません。"
   release_note = "1. Initial release. A fully offline web app that converts text between sentence, title, capital, lower and upper case, with live word and character counts. The static web files are embedded in this package and served by a non-root nginx container pulled from Docker Hub. Google Analytics, Google AdSense and the upstream contact form have been removed."
@@ -79,7 +79,7 @@
 
 [ko-kr]
   name         = "대소문자 변환기"
-  auth         = "Case Converter"
+  auth         = "karentamrazyan"
   version      = "@@VERSION@@"
   descript     = "Case Converter는 모든 텍스트의 대소문자를 변환하는 작은 오프라인 웹 앱입니다. 텍스트를 붙여넣거나 입력한 뒤 문장 첫 글자 대문자, 제목 형식, 각 단어 첫 글자 대문자, 모두 소문자, 모두 대문자로 변환할 수 있으며 단어 수와 문자 수가 실시간으로 표시됩니다. 텍스트는 기기를 벗어나지 않습니다. 변환은 브라우저에서 실행되고 앱은 NAS의 컨테이너 안에서만 동작합니다. 광고, 추적, 계정이 없습니다."
   release_note = "1. Initial release. A fully offline web app that converts text between sentence, title, capital, lower and upper case, with live word and character counts. The static web files are embedded in this package and served by a non-root nginx container pulled from Docker Hub. Google Analytics, Google AdSense and the upstream contact form have been removed."
@@ -87,7 +87,7 @@
 
 [pl-pl]
   name         = "Konwerter wielkości liter"
-  auth         = "Case Converter"
+  auth         = "karentamrazyan"
   version      = "@@VERSION@@"
   descript     = "Case Converter to mała aplikacja internetowa działająca offline, która zmienia wielkość liter w dowolnym tekście. Wklej lub wpisz tekst i zmień go na zapis zdaniowy, tytułowy, z wielkimi literami na początku wyrazów, małe lub WIELKIE litery, z licznikiem słów i znaków na żywo. Tekst nigdy nie opuszcza urządzenia: konwersja odbywa się w przeglądarce, a aplikacja działa w całości w kontenerze na Twoim NAS - bez reklam, bez śledzenia, bez konta."
   release_note = "1. Initial release. A fully offline web app that converts text between sentence, title, capital, lower and upper case, with live word and character counts. The static web files are embedded in this package and served by a non-root nginx container pulled from Docker Hub. Google Analytics, Google AdSense and the upstream contact form have been removed."
@@ -95,7 +95,7 @@
 
 [ru-ru]
   name         = "Конвертер регистра"
-  auth         = "Case Converter"
+  auth         = "karentamrazyan"
   version      = "@@VERSION@@"
   descript     = "Case Converter — это небольшое офлайн-веб-приложение для изменения регистра букв в любом тексте. Вставьте или введите текст и преобразуйте его в регистр предложения, заголовка, с заглавной буквы каждого слова, в нижний или ВЕРХНИЙ регистр; количество слов и символов отображается в реальном времени. Текст не покидает устройство: преобразование выполняется в браузере, а приложение работает полностью в контейнере на вашем NAS — без рекламы, без отслеживания, без учётной записи."
   release_note = "1. Initial release. A fully offline web app that converts text between sentence, title, capital, lower and upper case, with live word and character counts. The static web files are embedded in this package and served by a non-root nginx container pulled from Docker Hub. Google Analytics, Google AdSense and the upstream contact form have been removed."
@@ -103,7 +103,7 @@
 
 [tr-tr]
   name         = "Büyük/küçük harf dönüştürücü"
-  auth         = "Case Converter"
+  auth         = "karentamrazyan"
   version      = "@@VERSION@@"
   descript     = "Case Converter, herhangi bir metnin büyük/küçük harf durumunu değiştiren küçük bir çevrimdışı web uygulamasıdır. Metni yapıştırın veya yazın; cümle düzeni, başlık düzeni, her sözcüğün ilk harfi büyük, tümü küçük veya TÜMÜ BÜYÜK biçimlerine dönüştürün; sözcük ve karakter sayıları anında görünür. Metniniz cihazdan hiç ayrılmaz: dönüştürme tarayıcıda çalışır ve uygulama tamamen NAS'ınızdaki bir kapsayıcı içinde çalışır - reklam yok, izleme yok, hesap yok."
   release_note = "1. Initial release. A fully offline web app that converts text between sentence, title, capital, lower and upper case, with live word and character counts. The static web files are embedded in this package and served by a non-root nginx container pulled from Docker Hub. Google Analytics, Google AdSense and the upstream contact form have been removed."
@@ -111,7 +111,7 @@
 
 [pt-pt]
   name         = "Conversor de maiúsculas e minúsculas"
-  auth         = "Case Converter"
+  auth         = "karentamrazyan"
   version      = "@@VERSION@@"
   descript     = "O Case Converter é uma pequena aplicação web offline que altera as maiúsculas e minúsculas de qualquer texto. Cole ou escreva o texto e converta-o em estilo de frase, estilo de título, iniciais maiúsculas, minúsculas ou MAIÚSCULAS, com contagem de palavras e caracteres em tempo real. O texto nunca sai do dispositivo: a conversão é feita no navegador e a aplicação funciona inteiramente num contentor no seu NAS - sem anúncios, sem rastreio e sem conta."
   release_note = "1. Initial release. A fully offline web app that converts text between sentence, title, capital, lower and upper case, with live word and character counts. The static web files are embedded in this package and served by a non-root nginx container pulled from Docker Hub. Google Analytics, Google AdSense and the upstream contact form have been removed."
@@ -119,7 +119,7 @@
 
 [ar-sa]
   name         = "محول حالة الأحرف"
-  auth         = "Case Converter"
+  auth         = "karentamrazyan"
   version      = "@@VERSION@@"
   descript     = "Case Converter is a small offline web app that changes the letter case of any text. Paste or type your text and switch it to sentence case, title case, capital case, lower case or upper case, with live word and character counts. Your text never leaves the device: the conversion runs in your browser and the app works entirely inside a container on your NAS - no ads, no tracking, no account."
   release_note = "1. Initial release. A fully offline web app that converts text between sentence, title, capital, lower and upper case, with live word and character counts. The static web files are embedded in this package and served by a non-root nginx container pulled from Docker Hub. Google Analytics, Google AdSense and the upstream contact form have been removed."
@@ -127,7 +127,7 @@
 
 [cs-cz]
   name         = "Převod velikosti písmen"
-  auth         = "Case Converter"
+  auth         = "karentamrazyan"
   version      = "@@VERSION@@"
   descript     = "Case Converter is a small offline web app that changes the letter case of any text. Paste or type your text and switch it to sentence case, title case, capital case, lower case or upper case, with live word and character counts. Your text never leaves the device: the conversion runs in your browser and the app works entirely inside a container on your NAS - no ads, no tracking, no account."
   release_note = "1. Initial release. A fully offline web app that converts text between sentence, title, capital, lower and upper case, with live word and character counts. The static web files are embedded in this package and served by a non-root nginx container pulled from Docker Hub. Google Analytics, Google AdSense and the upstream contact form have been removed."
@@ -135,7 +135,7 @@
 
 [he-il]
   name         = "ממיר אותיות רישיות/קטנות"
-  auth         = "Case Converter"
+  auth         = "karentamrazyan"
   version      = "@@VERSION@@"
   descript     = "Case Converter is a small offline web app that changes the letter case of any text. Paste or type your text and switch it to sentence case, title case, capital case, lower case or upper case, with live word and character counts. Your text never leaves the device: the conversion runs in your browser and the app works entirely inside a container on your NAS - no ads, no tracking, no account."
   release_note = "1. Initial release. A fully offline web app that converts text between sentence, title, capital, lower and upper case, with live word and character counts. The static web files are embedded in this package and served by a non-root nginx container pulled from Docker Hub. Google Analytics, Google AdSense and the upstream contact form have been removed."
@@ -143,7 +143,7 @@
 
 [id-id]
   name         = "Pengubah Huruf Besar/Kecil"
-  auth         = "Case Converter"
+  auth         = "karentamrazyan"
   version      = "@@VERSION@@"
   descript     = "Case Converter is a small offline web app that changes the letter case of any text. Paste or type your text and switch it to sentence case, title case, capital case, lower case or upper case, with live word and character counts. Your text never leaves the device: the conversion runs in your browser and the app works entirely inside a container on your NAS - no ads, no tracking, no account."
   release_note = "1. Initial release. A fully offline web app that converts text between sentence, title, capital, lower and upper case, with live word and character counts. The static web files are embedded in this package and served by a non-root nginx container pulled from Docker Hub. Google Analytics, Google AdSense and the upstream contact form have been removed."
@@ -151,7 +151,7 @@
 
 [nb-no]
   name         = "Konvertering av store/små bokstaver"
-  auth         = "Case Converter"
+  auth         = "karentamrazyan"
   version      = "@@VERSION@@"
   descript     = "Case Converter is a small offline web app that changes the letter case of any text. Paste or type your text and switch it to sentence case, title case, capital case, lower case or upper case, with live word and character counts. Your text never leaves the device: the conversion runs in your browser and the app works entirely inside a container on your NAS - no ads, no tracking, no account."
   release_note = "1. Initial release. A fully offline web app that converts text between sentence, title, capital, lower and upper case, with live word and character counts. The static web files are embedded in this package and served by a non-root nginx container pulled from Docker Hub. Google Analytics, Google AdSense and the upstream contact form have been removed."
@@ -159,7 +159,7 @@
 
 [nl-nl]
   name         = "Hoofdletter-/kleineletterconverter"
-  auth         = "Case Converter"
+  auth         = "karentamrazyan"
   version      = "@@VERSION@@"
   descript     = "Case Converter is a small offline web app that changes the letter case of any text. Paste or type your text and switch it to sentence case, title case, capital case, lower case or upper case, with live word and character counts. Your text never leaves the device: the conversion runs in your browser and the app works entirely inside a container on your NAS - no ads, no tracking, no account."
   release_note = "1. Initial release. A fully offline web app that converts text between sentence, title, capital, lower and upper case, with live word and character counts. The static web files are embedded in this package and served by a non-root nginx container pulled from Docker Hub. Google Analytics, Google AdSense and the upstream contact form have been removed."
@@ -167,7 +167,7 @@
 
 [sv-se]
   name         = "Omvandlare för stora/små bokstäver"
-  auth         = "Case Converter"
+  auth         = "karentamrazyan"
   version      = "@@VERSION@@"
   descript     = "Case Converter is a small offline web app that changes the letter case of any text. Paste or type your text and switch it to sentence case, title case, capital case, lower case or upper case, with live word and character counts. Your text never leaves the device: the conversion runs in your browser and the app works entirely inside a container on your NAS - no ads, no tracking, no account."
   release_note = "1. Initial release. A fully offline web app that converts text between sentence, title, capital, lower and upper case, with live word and character counts. The static web files are embedded in this package and served by a non-root nginx container pulled from Docker Hub. Google Analytics, Google AdSense and the upstream contact form have been removed."
@@ -175,7 +175,7 @@
 
 [th-th]
   name         = "ตัวแปลงตัวพิมพ์ใหญ่-เล็ก"
-  auth         = "Case Converter"
+  auth         = "karentamrazyan"
   version      = "@@VERSION@@"
   descript     = "Case Converter is a small offline web app that changes the letter case of any text. Paste or type your text and switch it to sentence case, title case, capital case, lower case or upper case, with live word and character counts. Your text never leaves the device: the conversion runs in your browser and the app works entirely inside a container on your NAS - no ads, no tracking, no account."
   release_note = "1. Initial release. A fully offline web app that converts text between sentence, title, capital, lower and upper case, with live word and character counts. The static web files are embedded in this package and served by a non-root nginx container pulled from Docker Hub. Google Analytics, Google AdSense and the upstream contact form have been removed."
@@ -183,7 +183,7 @@
 
 [vi-vn]
   name         = "Trình chuyển đổi chữ hoa/chữ thường"
-  auth         = "Case Converter"
+  auth         = "karentamrazyan"
   version      = "@@VERSION@@"
   descript     = "Case Converter is a small offline web app that changes the letter case of any text. Paste or type your text and switch it to sentence case, title case, capital case, lower case or upper case, with live word and character counts. Your text never leaves the device: the conversion runs in your browser and the app works entirely inside a container on your NAS - no ads, no tracking, no account."
   release_note = "1. Initial release. A fully offline web app that converts text between sentence, title, capital, lower and upper case, with live word and character counts. The static web files are embedded in this package and served by a non-root nginx container pulled from Docker Hub. Google Analytics, Google AdSense and the upstream contact form have been removed."

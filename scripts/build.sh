@@ -3,7 +3,7 @@
 # (out/caseconvert.tar.gz + .sha256).
 #
 # Usage: scripts/build.sh [version] [platform]
-#   version  default: 2024.2.11-1
+#   version  default: 2024.2.11-2
 #            format : <upstream-base>-<packaging-iteration>, strictly increasing
 #   platform default: x86_64   (x86_64 | aarch64; config.ini.platform follows it)
 set -euo pipefail
@@ -17,7 +17,7 @@ DIST="$ROOT/dist"
 OUT="$ROOT/out"
 APPID="caseconvert"
 
-VERSION="${1:-2024.2.11-1}"
+VERSION="${1:-2024.2.11-2}"
 PLATFORM="${2:-x86_64}"
 
 case "$PLATFORM" in

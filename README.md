@@ -75,8 +75,8 @@ docker compose -p caseconvert -f test/compose-resolved/docker-compose.yml up -d
 ## Build from source
 
 ```bash
-scripts/build.sh 2024.2.11-1            # x86_64 (default)
-scripts/build.sh 2024.2.11-1 aarch64    # other architecture
+scripts/build.sh 2024.2.11-2            # x86_64 (default)
+scripts/build.sh 2024.2.11-2 aarch64    # other architecture
 ```
 
 The script builds the deterministic site bundle, embeds it into the compose
@@ -99,17 +99,17 @@ test/         volume-resolved compose for manual testing
 ## Upstream & license
 
 - Upstream project: <https://github.com/caseconverter/caseconverter> (MIT)
-- Upstream author: Case Converter
+- Upstream author: Karen Tamrazyan (@karentamrazyan)
 - Packaged for TOS by **Moechz**
 
 The bundled web page is MIT-licensed; see [`LICENSE.md`](LICENSE.md).
 
 ## Versioning
 
-`2024.2.11-1` = upstream snapshot `2024.2.11` + packaging iteration `1`.
+`2024.2.11-2` = upstream snapshot `2024.2.11` + packaging iteration `1`.
 
 The upstream project publishes no releases or version tags, so the version base is
 the date of the upstream commit this build was made from
 (`a6581d1f1bab0cfb6fe85d8f245610a82c1083e7`, 2024-02-11). The version is kept
 identical in `config.ini`, every language section of `caseconvert.lang`, and the
-GitHub Release tag (`v2024.2.11-1`).
+GitHub Release tag (`v2024.2.11-2`).
