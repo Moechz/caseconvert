@@ -1,6 +1,6 @@
 # Changelog
 
-## 1.0.0-1 — 2026-09-27
+## 2024.2.11-1 — 2026-09-27
 
 ### Added
 - First release of **Case Converter for TerraMaster TOS 7** as a Docker

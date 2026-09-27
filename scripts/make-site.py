@@ -2,6 +2,10 @@
 """Build the TOS edition of the Case Converter static site from the upstream
 `docs/` tree (the upstream production site).
 
+Upstream snapshot pinned for this series:
+    caseconverter/caseconverter @ a6581d1f1bab0cfb6fe85d8f245610a82c1083e7
+    (2024-02-11, the last upstream commit; upstream has no release tags)
+
 What it changes vs. upstream (all changes are recorded in
 docs/DESIGN_DECISIONS.md D-002):
 
