@@ -17,6 +17,8 @@
 - Rewrote links to `caseconverter.cc` as relative pages.
 - Removed the unused social-preview images (the site now needs only the page
   files, the favicon and one inline image).
+- The application icon is a full-bleed rounded square, matching the size standard
+  used by the other TOS applications.
 
 ### Notes
 - Runs as a non-root user (`1000:1000`) on a fixed
